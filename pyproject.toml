@@ -12,7 +12,7 @@ packages = [
 ]
 [tool.poetry.dependencies]
 python = ">=3.8,<4"
-requests = "^2.26.0"
+requests = "^2.32.2"
 dateparser = "^1.0.0"
 beautifulsoup4 = "^4.9.3"
 more-itertools = "^8.10.0"
